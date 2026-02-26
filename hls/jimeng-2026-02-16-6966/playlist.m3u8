@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-KEY:METHOD=AES-128,URI="https://cdn.jsdelivr.net/gh/cyanlis/cyanlis.cn-video-storage@master/hls/jimeng-2026-02-16-6966/encryption.key",IV=0x69044e983a3610130cd5ae525dd035ab
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:5.033333,
+playlist0.ts
+#EXT-X-ENDLIST
