@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:17
 #EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="https://gcore.jsdelivr.net/gh/cyanlis/cyanlis.cn-video-storage@master/hls/encryption.key",IV=0x6dfea01398481b201f9920d27351b722
+#EXT-X-KEY:METHOD=AES-128,URI="https://cdn.jsdelivr.net/gh/cyanlis/cyanlis.cn-video-storage@master/hls/encryption.key",IV=0x6dfea01398481b201f9920d27351b722
 #EXTINF:10.566667,
 segment_000.ts
 #EXTINF:11.966667,
